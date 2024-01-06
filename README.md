@@ -78,8 +78,8 @@ Docker, AWS EC2, S3, ECS, ECR, Fargate, RDS, Cloud Watch
 <br/>
 <br/>
 
-## Infra Architecture (2023년 9월 3일)
-![mybrary 아키텍처 0817-페이지-1 drawio](https://github.com/SWM-IDLE/mybrary/assets/71378475/f60ea648-c522-408b-9181-f640192c5b14)
+## Infra Architecture
+<img width="746" alt="IDLE팀_ AWS_Architecture" src="https://github.com/minnseong/mybrary/assets/71378475/5dd52e9f-2821-457a-abd0-b9f0c5535cfd">
 
 <br/>
 <br/>
